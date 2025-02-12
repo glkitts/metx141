@@ -1,0 +1,15 @@
+---
+title: "METX141 - Spring Quarter 2025"
+image: "files/agarArt2018winner.jpg"
+links:
+output:
+  postcards::jolla
+---
+
+------------------------------------------------------------------------
+
+```{r, fig.align='center', out.width="110%", echo = F}
+knitr::include_graphics(path = "files/250212_METX141.png")
+```
+
+# More info to be announced soon!
