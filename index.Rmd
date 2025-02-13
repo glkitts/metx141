@@ -8,8 +8,12 @@ output:
 
 ------------------------------------------------------------------------
 
+Spring 2025 - Mondays and Wednesdays - 11am - 2pm - Thimann 229
+
+------------------------------------------------------------------------
+
 ```{r, fig.align='center', out.width="110%", echo = F}
-knitr::include_graphics(path = "files/250212_METX141.png")
+knitr::include_graphics(path = "files/250213_flyer.png")
 ```
 
 # More info to be announced soon!
