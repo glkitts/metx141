@@ -12,6 +12,10 @@ Spring 2025 - Mondays and Wednesdays - 11am - 2pm - Thimann 229
 
 ------------------------------------------------------------------------
 
+Prerequisite(s): METX 100 or METX 119 or METX 140, and METX 100L or METX 119L. Enrollment is restricted to juniors and seniors.
+
+------------------------------------------------------------------------
+
 ```{r, fig.align='center', out.width="110%", echo = F}
 knitr::include_graphics(path = "files/250213_flyer.png")
 ```
